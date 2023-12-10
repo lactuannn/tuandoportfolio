@@ -80,11 +80,11 @@ export const experiences = [
         ],
     },
     {
-        title: "Full stack Developer",
-        company_name: "Meta",
+        title: "iOS Developer",
+        company_name: "NTQ-Solution",
         icon: meta,
         iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        date: "Sep 2018 - July 2019",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -92,6 +92,19 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+    {
+        title: "iOS Developer",
+        company_name: "Smart Media",
+        icon: meta,
+        iconBg: "#a2d2ff",
+        date: "Nov 2017 - Sep 2018",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    }
 ];
 
 export const socialLinks = [
