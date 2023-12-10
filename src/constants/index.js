@@ -23,129 +23,59 @@ import {
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    swift
 } from "../assets/icons";
 
 export const skills = [
-    {
-        imageUrl: css,
-        name: "CSS",
-        type: "Frontend",
-    },
-    {
-        imageUrl: express,
-        name: "Express",
-        type: "Backend",
-    },
-    {
-        imageUrl: git,
-        name: "Git",
-        type: "Version Control",
-    },
     {
         imageUrl: github,
         name: "GitHub",
         type: "Version Control",
     },
+
     {
-        imageUrl: html,
-        name: "HTML",
-        type: "Frontend",
-    },
-    {
-        imageUrl: javascript,
-        name: "JavaScript",
-        type: "Frontend",
-    },
-    {
-        imageUrl: mongodb,
-        name: "MongoDB",
-        type: "Database",
-    },
-    {
-        imageUrl: motion,
-        name: "Motion",
-        type: "Animation",
-    },
-    {
-        imageUrl: mui,
-        name: "Material-UI",
-        type: "Frontend",
-    },
-    {
-        imageUrl: nextjs,
-        name: "Next.js",
-        type: "Frontend",
-    },
-    {
-        imageUrl: nodejs,
-        name: "Node.js",
-        type: "Backend",
-    },
-    {
-        imageUrl: react,
-        name: "React",
-        type: "Frontend",
-    },
-    {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
-    },
-    {
-        imageUrl: sass,
-        name: "Sass",
-        type: "Frontend",
-    },
-    {
-        imageUrl: tailwindcss,
-        name: "Tailwind CSS",
-        type: "Frontend",
-    },
-    {
-        imageUrl: typescript,
-        name: "TypeScript",
+        imageUrl: swift,
+        name: "Swift",
         type: "Frontend",
     }
 ];
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
+        title: "iOS Team Leader",
+        company_name: "FPT Software",
         icon: starbucks,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "Oct 2022 - Now",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "I work as an iOS Developer for FPT Software in Hoa Lac. I lead a team of 6 members, part of a larger team of 20 people",
+            "Collaborating with cross-functional teams including Bridge SE, and other developers to create high-quality products.",
+            "Developing new features, maintaining the application.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tesla",
+        title: "iOS Developer",
+        company_name: "ITSol",
         icon: tesla,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        date: "June 2020 - Sep 2022",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Collaborating with cross-functional teams including Bridge SE, and other developers to create high-quality products.",
+            "Developing new features, maintaining the application.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
+        title: "iOS Developer",
+        company_name: "Minh Phuc Software",
         icon: shopify,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Oct 2019 - June 2020",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Collaborating with cross-functional teams including Bridge SE, and other developers to create high-quality products.",
+            "Developing new features, maintaining the application.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
