@@ -5,7 +5,7 @@ import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
 import fsoft from './fsoft.svg'
-import white from './white.svg'
+import white from './white.webp'
 
 export {
     hero,
