@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla, fsoft } from "../assets/images";
+import { meta, shopify, starbucks, tesla, fsoft, white } from "../assets/images";
 import {
     car,
     contact,
@@ -45,7 +45,7 @@ export const experiences = [
     {
         title: "iOS Team Leader",
         company_name: "FPT Software",
-        icon: fsoft,
+        icon: white,
         iconBg: "#accbe1",
         date: "Oct 2022 - Now",
         points: [
@@ -58,6 +58,7 @@ export const experiences = [
     {
         title: "iOS Developer",
         company_name: "ITSol",
+        icon: white,
         iconBg: "#fbc3bc",
         date: "June 2020 - Sep 2022",
         points: [
@@ -69,6 +70,7 @@ export const experiences = [
     {
         title: "iOS Developer",
         company_name: "Minh Phuc Software",
+        icon: white,
         iconBg: "#b7e4c7",
         date: "Oct 2019 - June 2020",
         points: [
@@ -80,7 +82,7 @@ export const experiences = [
     {
         title: "iOS Developer",
         company_name: "NTQ-Solution",
-        icon: meta,
+        icon: white,
         iconBg: "#a2d2ff",
         date: "Sep 2018 - July 2019",
         points: [
@@ -93,7 +95,7 @@ export const experiences = [
     {
         title: "iOS Developer",
         company_name: "Smart Media",
-        icon: meta,
+        icon: white,
         iconBg: "#a2d2ff",
         date: "Nov 2017 - Sep 2018",
         points: [
@@ -120,11 +122,11 @@ export const socialLinks = [
 
 export const projects = [
     {
-        iconUrl: pricewise,
+        iconUrl: white,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
+        name: 'Nitori',
         description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        link: 'https://apps.apple.com/jp/app/%E3%83%8B%E3%83%88%E3%83%AA%E3%82%A2%E3%83%97%E3%83%AA-%E5%AE%B6%E5%85%B7-%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%A2%E3%81%AE%E6%AC%B2%E3%81%97%E3%81%84%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8B/id814928018',
     },
     {
         iconUrl: threads,
