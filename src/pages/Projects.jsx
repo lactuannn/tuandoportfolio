@@ -15,11 +15,7 @@ const Projects = () => {
       </h1>
 
       <p className='text-slate-500 mt-2 leading-relaxed'>
-        I've embarked on numerous projects throughout the years, but these are
-        the ones I hold closest to my heart. Many of them are open-source, so if
-        you come across something that piques your interest, feel free to
-        explore the codebase and contribute your ideas for further enhancements.
-        Your collaboration is highly valued!
+      In 6 years of working on iOS, I have participated in quite a few projects, ranging from small to fairly large ones. I have learned a lot through the projects I've been involved in. Some projects have provided additional insights into technical aspects, while others have taught me about product development processes and various other things. Below are the most recent projects that I have participated in.
       </p>
 
       <div className='flex flex-wrap my-20 gap-16'>
