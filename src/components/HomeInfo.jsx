@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Tuan Do Lac</span>
         👋
         <br />
-        An iOS Developer from VietNam 🇭🇷
+        An iOS Developer from VietNam
       </h1>
     );
 
@@ -33,7 +33,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium text-center sm:text-xl'>
-          Led multiple projects to success over the years. <br /> Curious about the impact?
+        Have completed many projects over the years. <br /> Curious about the impact?
         </p>
 
         <Link to='/projects' className='neo-brutalism-white neo-btn'>
