@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, starbucks, tesla, fsoft } from "../assets/images";
 import {
     car,
     contact,
@@ -45,7 +45,7 @@ export const experiences = [
     {
         title: "iOS Team Leader",
         company_name: "FPT Software",
-        icon: starbucks,
+        icon: fsoft,
         iconBg: "#accbe1",
         date: "Oct 2022 - Now",
         points: [
@@ -58,7 +58,6 @@ export const experiences = [
     {
         title: "iOS Developer",
         company_name: "ITSol",
-        icon: tesla,
         iconBg: "#fbc3bc",
         date: "June 2020 - Sep 2022",
         points: [
@@ -70,7 +69,6 @@ export const experiences = [
     {
         title: "iOS Developer",
         company_name: "Minh Phuc Software",
-        icon: shopify,
         iconBg: "#b7e4c7",
         date: "Oct 2019 - June 2020",
         points: [
@@ -114,14 +112,9 @@ export const socialLinks = [
         link: '/contact',
     },
     {
-        name: 'GitHub',
-        iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
-    },
-    {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/do-lac-tuan-b75a2a167/',
     }
 ];
 
