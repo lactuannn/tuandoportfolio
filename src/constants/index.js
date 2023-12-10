@@ -36,7 +36,7 @@ export const skills = [
 
     {
         imageUrl: swift,
-        name: "Swift",
+        name: "swift",
         type: "Frontend",
     }
 ];
